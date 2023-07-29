@@ -1,5 +1,7 @@
 <h1 align= "center">< | 🤔Diamord's Info🤔 | ></h1>
-<a href= "https://youtube.com/@diamord_tw"><h6 align= "center"><| 村長 | Diamord |></h6></a>
+<a href= "https://youtube.com/@diamord_tw">
+    <h6 align= "center"><| 村長 | Diamord |></h6>
+</a>
 <p align= "center">
   <a href= "https://github.com/diamord">
       <img src= "https://img.shields.io/badge/GitHub-Diamord-green?style=for-the-badge&logo=Github" />
