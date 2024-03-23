@@ -6,6 +6,9 @@
   <a href= "https://github.com/diamord">
       <img src= "https://img.shields.io/badge/GitHub-Diamord-green?style=for-the-badge&logo=Github" />
   </a>
+  <a href= "https://diamord.xyz">
+      <img src= "https://img.shields.io/badge/官方網站-diamord.xyz-blue?style=for-the-badge" />
+  </a>
 </p>
 
 * ## A Discord Bot Developer
